@@ -1,0 +1,9 @@
+{
+  "name": "Recharge",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/LucetMods/Recharge",
+  "description": "A mod for repo to recharge your items in between rounds.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
